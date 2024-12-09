@@ -1,4 +1,4 @@
-# prompt-engineering
+# prompt_engineering
 
 ## Задание
 
