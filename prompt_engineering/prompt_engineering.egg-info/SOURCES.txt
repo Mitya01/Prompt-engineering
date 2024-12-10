@@ -1,6 +1,0 @@
-README.md
-setup.py
-prompt_engineering.egg-info/PKG-INFO
-prompt_engineering.egg-info/SOURCES.txt
-prompt_engineering.egg-info/dependency_links.txt
-prompt_engineering.egg-info/top_level.txt
