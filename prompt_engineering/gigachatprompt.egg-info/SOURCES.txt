@@ -1,0 +1,6 @@
+README.md
+setup.py
+gigachatprompt.egg-info/PKG-INFO
+gigachatprompt.egg-info/SOURCES.txt
+gigachatprompt.egg-info/dependency_links.txt
+gigachatprompt.egg-info/top_level.txt
