@@ -1,6 +1,5 @@
 Metadata-Version: 2.1
-Name: prompt_engineering
+Name: gigachatprompt
 Version: 1.1
 Summary: A function that takes 2 arguments: credentials from GigaChat API and a job description and returns 5 screening questions.
-Home-page: https://github.com/Mitya01/prompt_engineering
 Author: Mitya01

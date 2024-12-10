@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/gigachatprompt/__init__.py
+src/gigachatprompt/prompt.py
+src/gigachatprompt.egg-info/PKG-INFO
+src/gigachatprompt.egg-info/SOURCES.txt
+src/gigachatprompt.egg-info/dependency_links.txt
+src/gigachatprompt.egg-info/top_level.txt
