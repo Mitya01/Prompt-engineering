@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
 Name: gigachatprompt
-Version: 1.1
+Version: 1.2
 Summary: A function that takes 2 arguments: credentials from GigaChat API and a job description and returns 5 screening questions.
 Author: Mitya01
